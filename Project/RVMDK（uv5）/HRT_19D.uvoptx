@@ -927,8 +927,8 @@
       <tvExp>0</tvExp>
       <tvExpOptDlg>0</tvExpOptDlg>
       <bDave2>0</bDave2>
-      <PathWithFileName>..\..\HRT_18D\Readme_Tech.txt</PathWithFileName>
-      <FilenameWithoutPath>Readme_Tech.txt</FilenameWithoutPath>
+      <PathWithFileName>..\..\Record.txt</PathWithFileName>
+      <FilenameWithoutPath>Record.txt</FilenameWithoutPath>
       <RteFlg>0</RteFlg>
       <bShared>0</bShared>
     </File>
@@ -939,8 +939,8 @@
       <tvExp>0</tvExp>
       <tvExpOptDlg>0</tvExpOptDlg>
       <bDave2>0</bDave2>
-      <PathWithFileName>..\..\Record.txt</PathWithFileName>
-      <FilenameWithoutPath>Record.txt</FilenameWithoutPath>
+      <PathWithFileName>..\..\HRT_19D\Readme_Tech.txt</PathWithFileName>
+      <FilenameWithoutPath>Readme_Tech.txt</FilenameWithoutPath>
       <RteFlg>0</RteFlg>
       <bShared>0</bShared>
     </File>

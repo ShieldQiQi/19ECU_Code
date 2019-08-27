@@ -681,14 +681,14 @@
           <GroupName>HRT_19D</GroupName>
           <Files>
             <File>
-              <FileName>Readme_Tech.txt</FileName>
-              <FileType>5</FileType>
-              <FilePath>..\..\HRT_18D\Readme_Tech.txt</FilePath>
-            </File>
-            <File>
               <FileName>Record.txt</FileName>
               <FileType>5</FileType>
               <FilePath>..\..\Record.txt</FilePath>
+            </File>
+            <File>
+              <FileName>Readme_Tech.txt</FileName>
+              <FileType>5</FileType>
+              <FilePath>..\..\HRT_19D\Readme_Tech.txt</FilePath>
             </File>
           </Files>
         </Group>
